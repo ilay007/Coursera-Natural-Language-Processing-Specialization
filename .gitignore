@@ -1,0 +1,5 @@
+project.lock.json
+.DS_Store
+nupkg/
+
+data/
